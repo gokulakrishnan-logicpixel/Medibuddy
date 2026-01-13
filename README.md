@@ -63,6 +63,7 @@ python app.py
 
 Now,
 ```bash
+#For Frontend UI run the following command
 npm run dev
 ```
 
