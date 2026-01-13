@@ -69,3 +69,8 @@ open up localhost:
 - Flask
 - Meta Llama2
 - Pinecone
+- React
+- Axios
+- GROQ API
+- Axios
+- Anaconda env
