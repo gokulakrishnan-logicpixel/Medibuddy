@@ -25,6 +25,11 @@ conda activate medibuddy
 pip install -r requirements.txt
 ```
 
+### STEP 03- install the npm for react
+```bash
+npm install
+```
+
 
 ### Create a `.env` file in the root directory and add your Pinecone credentials as follows:
 
