@@ -63,7 +63,7 @@ python app.py
 
 Now,
 ```bash
-open up localhost:
+npm run dev
 ```
 
 
